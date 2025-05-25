@@ -1,1 +1,1 @@
-# he book provides detailed diffraction integral formulas and simulation codes. It offers thorough explanations of sampling issues encountered in simulations. More importantly, the book also discusses the propagation problem between tilted planes and flat planes.
+# The book provides detailed diffraction integral formulas and simulation codes. It offers thorough explanations of sampling issues encountered in simulations. More importantly, the book also discusses the propagation problem between tilted planes and flat planes.
